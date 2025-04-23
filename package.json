@@ -1,0 +1,10 @@
+{
+  "name": "first-steps-with-docker-cloud",
+  "type": "module",
+  "dependencies": {
+    "langchain": "^0.3.12",
+    "prompts": "^2.4.2",
+    "@langchain/ollama": "^0.1.4",
+    "dotenv": "^16.4.7"
+  }
+}
