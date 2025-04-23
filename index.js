@@ -5,7 +5,7 @@ import prompts from "prompts";
 console.log("🌍 Ollama base URL:", process.env.OLLAMA_BASE_URL)
 
 const llm = new ChatOllama({
-  model: process.env.LLM_CHAT || "qwen2.5:3b",
+  model: process.env.LLM_CHAT || "qwen2.5:0.5b",
   baseUrl: process.env.OLLAMA_BASE_URL || "http://ollama-service:11434",
   temperature: 0.5,
   repeatPenalty: 2.2,
