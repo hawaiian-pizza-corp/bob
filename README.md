@@ -1,4 +1,4 @@
-# bob
+# Bob 💙 🍍🍕
 
 ```bash
 curl http://ollama-service:11434/api/generate -d '{
