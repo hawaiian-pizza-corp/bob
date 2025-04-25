@@ -1,4 +1,4 @@
-# Bob 💙 🍍🍕
+# Bob 🍍🍕 expert
 
 This is a demo with Ollama and LangChainJS
 
